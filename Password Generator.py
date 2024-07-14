@@ -54,3 +54,4 @@ label_result.pack(pady=10)
 
 # Start the GUI event loop
 window.mainloop()
+
